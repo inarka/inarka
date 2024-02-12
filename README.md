@@ -25,7 +25,7 @@
 На текущий момент главный мой интерес - это погружение в разделы математики, лежащие в основе методов машинного обучения и нейронных сетей. А еще я просто люблю писать код. 
 
 ## Контакты
-- <a href="https://t.me/inarych"><img src="https://upload.wikimedia.org/wikipedia/commons/5/5c/Telegram_Messenger.png" width="30" height="30"></a>
+<a href="https://t.me/inarych"><img src="https://upload.wikimedia.org/wikipedia/commons/5/5c/Telegram_Messenger.png" width="30" height="30"></a>
 
 <!--
 **inarka/inarka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
