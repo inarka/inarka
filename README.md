@@ -1,6 +1,6 @@
 ### Hi, I’m Inara - Data Scientist! 👋
 
-## Обо мне
+## About me
 Hi, I’m Inara—a Data Analyst with a solid foundation in backend fundamentals and a keen interest in the engineering side of data work. I’m skilled at crafting efficient SQL queries, designing and refining dashboards, and ensuring that the information they present is both clear and actionable. Whether it’s tuning a query for better performance, reorganizing data structures for easier access, or enhancing a dashboard to reveal deeper insights, I enjoy the process of making data workflows smoother and more intuitive.
 
 I’m passionate about continually refining my methods, experimenting with new tools, and learning the nuances of data systems. If you’re looking for someone who combines analytical thinking, attention to detail, and an eagerness to optimize processes, I’m ready to help you uncover new efficiencies and empower better decision-making.
