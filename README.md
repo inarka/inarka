@@ -15,7 +15,7 @@ I’m passionate about continually refining my methods, experimenting with new t
 - Tools and Technologies: SQL, Pandas, NumPy, Matplotlib, Scikit-learn
 - Fundamentals of Machine Learning and Neural Networks
 
-## Проекты
+## Projects
 [You can view my portfolio here](https://github.com/inarka/portfolio)
 
 ## Interests 
