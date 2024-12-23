@@ -1,26 +1,27 @@
-### Привет, я Инара - Data Scientist! 👋
+### Hi, I’m Inara - Data Scientist! 👋
 
 ## Обо мне
 Hi, I’m Inara—a Data Analyst with a solid foundation in backend fundamentals and a keen interest in the engineering side of data work. I’m skilled at crafting efficient SQL queries, designing and refining dashboards, and ensuring that the information they present is both clear and actionable. Whether it’s tuning a query for better performance, reorganizing data structures for easier access, or enhancing a dashboard to reveal deeper insights, I enjoy the process of making data workflows smoother and more intuitive.
 
 I’m passionate about continually refining my methods, experimenting with new tools, and learning the nuances of data systems. If you’re looking for someone who combines analytical thinking, attention to detail, and an eagerness to optimize processes, I’m ready to help you uncover new efficiencies and empower better decision-making.
-## Образование
-- **Бакалавр**, МИСиС - Информатика и вычислительная техника, 2017-2021
-- **Специалист по Data Science**, Яндекс Практикум, 2023 - Январь 2024
-  - 8-месячное обучение с фокусом на подготовку данных, анализ, визуализацию и построение предсказательных моделей.
 
-## Технические навыки
-- Языки программирования: Python, C#
-- Инструменты и технологии: SQL, Pandas, NumPy, Matplotlib, Scikit-learn
-- Основы машинного обучения и нейронных сетей
+## Education
+- **Bachelor’s Degree**, MISiS - Computer Science and Engineering, 2017-2021
+- **Data Science Specialist**, Yandex Practicum, 2023 - January 2024
+8-month training focused on data preparation, analysis, visualization, and building predictive models.
+
+## Technical skills
+- Programming Languages: Python, C#
+- Tools and Technologies: SQL, Pandas, NumPy, Matplotlib, Scikit-learn
+- Fundamentals of Machine Learning and Neural Networks
 
 ## Проекты
-[Ознакомиться с моим портфолио можно здесь](https://github.com/inarka/portfolio)
+[You can view my portfolio here](https://github.com/inarka/portfolio)
 
-## Интересы
-На текущий момент главный мой интерес - это погружение в разделы математики, лежащие в основе методов машинного обучения и нейронных сетей. А еще я просто люблю писать код. 
+## Interests 
+Currently, my main interest is diving into the areas of mathematics that underpin machine learning methods and neural networks. I also just love coding.
 
-## Контакты
+## Contacts
 <a href="https://t.me/inarych"><img src="https://upload.wikimedia.org/wikipedia/commons/5/5c/Telegram_Messenger.png" width="30" height="30"></a>
 
 <!--
